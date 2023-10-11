@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MehvishSheikh/react-website/static/css/main.073c9b0a.css",
+    "main.js": "/MehvishSheikh/react-website/static/js/main.4f0f63e2.js",
+    "static/js/787.241534ed.chunk.js": "/MehvishSheikh/react-website/static/js/787.241534ed.chunk.js",
+    "index.html": "/MehvishSheikh/react-website/index.html",
+    "main.073c9b0a.css.map": "/MehvishSheikh/react-website/static/css/main.073c9b0a.css.map",
+    "main.4f0f63e2.js.map": "/MehvishSheikh/react-website/static/js/main.4f0f63e2.js.map",
+    "787.241534ed.chunk.js.map": "/MehvishSheikh/react-website/static/js/787.241534ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.4f0f63e2.js"
+  ]
+}
